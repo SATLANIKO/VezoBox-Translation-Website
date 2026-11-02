@@ -1,6 +1,6 @@
-# VezoBox | Trans M&S website
+# VezoBox-Translation website
 
-Public information and release history for the VezoBox | Trans M&S website.
+Public information and release history for the VezoBox-Translation website.
 Website and application source code remain private.
 
 ## Independent versions
@@ -14,7 +14,7 @@ Its own version history starts at 0.1.0; it does not inherit the Security websit
 
 ## Product
 
-VezoBox | Trans M&S introduces the Windows translation application, speech translation and subtitle display.
+VezoBox-Translation introduces the Windows translation application, speech translation and subtitle display.
 The website includes an interactive caption illustration; it does not perform live browser translation.
 
 ## App updates
