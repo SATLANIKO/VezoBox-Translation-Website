@@ -1,6 +1,6 @@
 # VezoBox-Translation website
 
-Public information and release history for the VezoBox-Translation website.
+Public information and release history for the VezoBox-Trans-MS website.
 Website and application source code remain private.
 
 ## Independent versions
